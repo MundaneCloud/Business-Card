@@ -1,5 +1,5 @@
 body {
-  background-color: rosybrown;
+  background-color: royalblue;
   font-family: Arial, sans-serif;
 }
 .business-card {
@@ -18,6 +18,15 @@ body {
 p {
   margin-top: 5px;
   margin-bottom: 5px;
+  display: inline-block;
+}
+.category {
+  text-align: left;
+  width: 25%
+}
+.full-name, .designation, .company, .email, .phone {
+  text-align: right;
+  width: 75%;
 }
 a {
   text-decoration: none;
