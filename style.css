@@ -15,6 +15,7 @@ body {
 .profile-image {
   max-width: 100%;
   border: 2px solid royalblue;
+  border-radius: 50%;
 }
 h2 {
   font-size: 18px;
