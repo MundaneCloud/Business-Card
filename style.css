@@ -14,7 +14,7 @@ body {
 }
 .profile-image {
   max-width: 100%;
-  border-color: royalblue;
+  border: 2px solid royalblue;
 }
 h2 {
   font-size: 18px;
